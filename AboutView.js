@@ -6,7 +6,7 @@ const AboutView = () => {
       <Hero text="About us" />
       <div className="container">
         <div className="row">
-          <div className="col-lg-8 offset-lg-2 ">
+          <div className="col-lg-8 offset-lg-2 my-5">
             <p className="lead">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
               feugiat, enim volutpat volutpat ullamcorper, arcu arcu bibendum
