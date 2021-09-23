@@ -11,7 +11,7 @@ const AboutView = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elte. Aliquan
               feugiat, enim volutpat volutpat ullamcorper, arcu arcu bibendum
               augue, sed tempor tortor massa nec dolor. Duis sapien nisl, luctus
-              in semper vitae, pharetra eget lacus. Nullams odio eros, mollis at
+              in semper vitae, pharetra eget lacus. Nullams odio eros, molis at
               felis nonn, ultrice tristique libero. Nula quis pulvinar risa.
               Cras dia.
             </p>
