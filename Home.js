@@ -11,7 +11,7 @@ const Home = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
               rutrum mi felis, non lobortis enim congue in. Vestibulum
               scelerisque faucibus quam, eu lobortis ante facilisis facilesis.
-              Phasellus porttitor tortor et.
+              Phasellus porttitor tortor ets.
             </p>
           </div>
         </div>
