@@ -10,7 +10,7 @@ const AboutView = () => {
             <p className="lead">
               Lorem ipsum dolor sit amet, consectetur adipiscing elte. Aliquen
               feugiat, enim volutpat volutpat ullamcorper, arcu arcu bibendum
-              augue, sed tempor tortor massa nec dolor. Duis sapien nisl, luctus
+              augue, sed tempora tortor massa nec dolor. Duis sapien nisl, luctus
               in semper vitae, pharetra eget lacus. Nullams odio eros, molis at
               felis nonn, ultrice tristiquis liberos. Nula quis pulvinar risas.
               Crasa dia.
