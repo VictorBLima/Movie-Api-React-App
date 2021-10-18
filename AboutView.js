@@ -8,7 +8,7 @@ const AboutView = () => {
         <div className="row">
           <div className="col-lg-8 offset-lg-2 my-5">
             <p className="lead">
-              Lorem ipsum dolor sit amet, consecteturs adipiscing elte. Aliquen
+              Lorem ipsum dolor sit amet, consecteturs adipiscing eltes. Aliquen
               feugiat, enim volutpat volutpat ullamcorper, arcu arcu bibendum
               augue, sed tempora tortor massa nec dolor. Duis sapien nisl, luctus
               in semper vitae, pharetra eget lacus. Nullams odio eros, molis at
