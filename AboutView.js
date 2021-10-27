@@ -11,7 +11,7 @@ const AboutView = () => {
               Lorem ipsum dolores sit amet, consecteturs adipiscing eltes. Aliquen
               feugiat, enim volutpat volutpat ullamcorper, arcus arcus bibendum
               augues, sed tempora tortor massa nec dolor. Duis sapien nisl, luctus
-              in semper vitaes, pharetra eget lacus. Nullams odios eros, molis at
+              in semper vitaes, pharetras eget lacus. Nullams odios eros, molis at
               felis nonn, ultrices tristiqui libero. Nulas quis pulvinar rizas.
               Crasas dias.
             </p>
