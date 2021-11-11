@@ -12,7 +12,7 @@ const AboutView = () => {
               feugiat, enim volutpat volutpat ullamcorper, arcus arcus bibendum
               augues, sed tempora tortor massa nec dolor. Duis sapien nisl, luctus
               in semper vitaes, pharetras eget lacus. Nullams odios eros, molis at
-              felis nonn, ultrices tristiquis liberos. Nula quis pulvinar riza.
+              felis nonn, ultrices tristiqui liberos. Nula quis pulvinar riza.
               Crasas dias.
             </p>
           </div>
